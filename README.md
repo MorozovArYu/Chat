@@ -89,13 +89,13 @@ ___
 - Когда сервер получает текстовое сообщение от клиента, он должен переслать его всем остальным участникам чата.
 ## Установка
 ___
-[Server-1.0-SNAPSHOT.jar](/MorozovArYu/Chat/raw/main/resources/Server-1.0-SNAPSHOT.jar) - сервер
+[Server-1.0-SNAPSHOT.jar](https://github.com/MorozovArYu/Chat/raw/main/resources/Server-1.0-SNAPSHOT.jar) - сервер
 
-[ConsoleClient-1.0-SNAPSHOT.jar](/MorozovArYu/Chat/raw/main/resources/ConsoleClient-1.0-SNAPSHOT.jar) - консольный клиент
+[ConsoleClient-1.0-SNAPSHOT.jar](https://github.com/MorozovArYu/Chat/raw/main/resources/ConsoleClient-1.0-SNAPSHOT.jar) - консольный клиент
 
-[GuiClient-1.0-SNAPSHOT.jar](/MorozovArYu/Chat/raw/main/resources/GuiClient-1.0-SNAPSHOT.jar) - графический клиент
+[GuiClient-1.0-SNAPSHOT.jar](https://github.com/MorozovArYu/Chat/raw/main/resources/GuiClient-1.0-SNAPSHOT.jar) - графический клиент
 
-[Bot-1.0-SNAPSHOT.jar](/MorozovArYu/Chat/raw/main/resources/Bot-1.0-SNAPSHOT.jar) - бот
+[Bot-1.0-SNAPSHOT.jar](https://github.com/MorozovArYu/Chat/raw/main/resources/Bot-1.0-SNAPSHOT.jar) - бот
 
 __Важно!__
 Сначала запускается и конфигурируется серверное приложение
